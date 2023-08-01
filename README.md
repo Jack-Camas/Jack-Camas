@@ -1,7 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Jack  👋
+I am a iOS Developer
+
+- 🔭 Currently developing on my personal AI project.
+- 🌱 I’m currently learning Swift, stable difussion, Ai.
+- ⚡ Fun fact: ...
+
+
+Github Stats: 
 
 ![Anurag's GitHub stats](https://github-readme-stats-iota-green.vercel.app/api?username=jack-camas&show_icons=true&theme=radical&hide=stars&rank_icon=github&border_radius=15)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=jack-camas&theme=highcontrast&border_radius=15)](https://git.io/streak-stats)
 
 <!--
 **Jack-Camas/Jack-Camas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
