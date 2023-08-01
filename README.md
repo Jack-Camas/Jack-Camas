@@ -5,12 +5,17 @@ I am a iOS Developer
 - 🌱 I’m currently learning Swift, stable difussion, Ai.
 - ⚡ Fun fact: ...
 
+<img align="left" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift Badge" />
+<img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge" />
+<img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="Amazon DynamoDB Badge" />
 
-Github Stats: 
+___
+### Github Stats: 
+<img  align="left" src="https://github-readme-stats-iota-green.vercel.app/api?username=jack-camas&show_icons=true&theme=radical&hide=stars&rank_icon=github&border_radius=15" /> 
+<img src="https://streak-stats.demolab.com?user=jack-camas&theme=highcontrast&border_radius=15" /> 
 
-![Anurag's GitHub stats](https://github-readme-stats-iota-green.vercel.app/api?username=jack-camas&show_icons=true&theme=radical&hide=stars&rank_icon=github&border_radius=15)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jack-camas&theme=highcontrast&border_radius=15)](https://git.io/streak-stats)
 
 <!--
 **Jack-Camas/Jack-Camas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
