@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats-iota-green.vercel.app/api?username=jack-camas&show_icons=true&theme=radical&hide=stars&rank_icon=github&border_radius=15)
+
+
 <!--
 **Jack-Camas/Jack-Camas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
