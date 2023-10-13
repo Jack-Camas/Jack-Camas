@@ -4,7 +4,7 @@ I am a iOS Developer
 - 🔭 Currently developing on my personal AI project.
 - 🌱 I’m currently learning Swift, stable difussion, Ai.
 - ⚡ Fun fact: I love to draw and build custom keyboards
-
+f
 <img align="left" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift Badge" />
 <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
