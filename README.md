@@ -17,9 +17,6 @@ ___
 <img align="left" width="47%" src="https://streak-stats.demolab.com/?user=jack-camas&theme=highcontrast&border_radius=15" /> 
 
 
-
-
-
 <!--
 **Jack-Camas/Jack-Camas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
