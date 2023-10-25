@@ -14,7 +14,8 @@ I am a iOS Developer
 ___
 ### Github Stats: 
 <img align="left" width="47%" src="https://github-readme-stats-jack-camas.vercel.app/api?username=jack-camas&show_icons=true&theme=radical&hide=stars&rank_icon=github&border_radius=15" /> 
-<img align="left" width="47%" src="https://streak-stats.demolab.com/?user=jack-camas&theme=highcontrast&border_radius=15" /> 
+<img align="left" width="47%" src= "https://github-readme-streak-stats-indol.vercel.app?user=jack-camas&theme=highcontrast&border_radius=15" /> 
+
 
 
 <!--
