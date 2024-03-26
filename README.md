@@ -3,7 +3,7 @@ I am an iOS Developer
 
 - 🔭 Currently developing on my personal AI project.
 - 🌱 I specialize in Swift(UIKit)/SwiftUI
-- 🤔 Learning React,HTML,CSS
+- 🤔 Learning Kotlin,HTML,CSS
 - 📫 How to reach me: jackcamasdev@gmail.com
 - ⚡ Fun fact: I love to draw and build custom keyboards.
   
