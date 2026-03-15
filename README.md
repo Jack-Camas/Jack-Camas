@@ -2,10 +2,8 @@
 I am an iOS Developer
 
 - 🔭 Currently developing on my personal AI project.
-- 🌱 I specialize in Swift(UIKit)/SwiftUI
-- 🤔 Learning Kotlin,HTML,CSS
+- 🌱 I specialize in UIkit/Swift
 - 📫 How to reach me: jackcamasdev@gmail.com
-- ⚡ Fun fact: I love to draw and build custom keyboards.
   
 <img align="left" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift Badge" />
